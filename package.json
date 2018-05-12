@@ -1,0 +1,15 @@
+{
+  "name": "create-next-example-app",
+  "scripts": {
+    "dev": "next --inspect",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "elastic-apm-js-base": "^0.7.0",
+    "elastic-apm-node": "^1.5.2",
+    "next": "6.0.1",
+    "react": "16.3.2",
+    "react-dom": "16.3.2"
+  }
+}
